@@ -1,0 +1,5 @@
+
+
+to modify the git branch name use 
+
+git branch -m <name>
